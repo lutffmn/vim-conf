@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.pack.tailwindcss"},
   { import = "astrocommunity.pack.typescript"},
   { import = "astrocommunity.pack.html-css"},
+  { import = "astrocommunity.pack.go"},
 
   { import = "astrocommunity.indent.indent-rainbowline"},
   { import = "astrocommunity.colorscheme.catppuccin"},
