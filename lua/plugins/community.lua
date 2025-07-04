@@ -10,5 +10,6 @@ return {
   { import = "astrocommunity.pack.typescript"},
   { import = "astrocommunity.pack.html-css"},
   { import = "astrocommunity.pack.go"},
+  { import = "astrocommunity.pack.rust"},
   { import = "astrocommunity.scrolling.mini-animate"},
 }
